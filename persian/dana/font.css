@@ -9,10 +9,100 @@
 
 @font-face {
     font-family: dana;
+    src: url('faNumThinItalic.woff2') format('woff2'),
+        url('faNumThinItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: block;
+}
+
+@font-face {
+    font-family: dana;
+    src: url('faNumExtralight.woff2') format('woff2'),
+        url('faNumExtralight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: block;
+}
+
+@font-face {
+    font-family: dana;
+    src: url('faNumExtralightItalic.woff2') format('woff2'),
+        url('faNumExtralightItalic.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+    font-display: block;
+}
+
+@font-face {
+    font-family: dana;
+    src: url('faNumLight.woff2') format('woff2'),
+        url('faNumLight.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: block;
+}
+
+@font-face {
+    font-family: dana;
+    src: url('faNumLightItalic.woff2') format('woff2'),
+        url('faNumLightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: block;
+}
+
+@font-face {
+    font-family: dana;
     src: url('faNumRegular.woff2') format('woff2'),
         url('faNumRegular.woff') format('woff');
     font-weight: 400;
     font-style: normal;
+    font-display: block;
+}
+
+@font-face {
+    font-family: dana;
+    src: url('faNumRegularItalic.woff2') format('woff2'),
+        url('faNumRegularItalic.woff') format('woff');
+    font-weight: 400;
+    font-style: italic;
+    font-display: block;
+}
+
+@font-face {
+    font-family: dana;
+    src: url('faNumMedium.woff2') format('woff2'),
+        url('faNumMedium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: block;
+}
+
+@font-face {
+    font-family: dana;
+    src: url('faNumMediumItalic.woff2') format('woff2'),
+        url('faNumMediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: block;
+}
+
+@font-face {
+    font-family: dana;
+    src: url('faNumDemibold.woff2') format('woff2'),
+        url('faNumDemibold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: block;
+}
+
+@font-face {
+    font-family: dana;
+    src: url('faNumDemiboldItalic.woff2') format('woff2'),
+        url('faNumDemiboldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
     font-display: block;
 }
 
@@ -27,9 +117,63 @@
 
 @font-face {
     font-family: dana;
+    src: url('faNumBoldItalic.woff2') format('woff2'),
+        url('faNumBoldItalic.woff') format('woff');
+    font-weight: 700;
+    font-style: italic;
+    font-display: block;
+}
+
+@font-face {
+    font-family: dana;
+    src: url('faNumExtrabold.woff2') format('woff2'),
+        url('faNumExtrabold.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+    font-display: block;
+}
+
+@font-face {
+    font-family: dana;
+    src: url('faNumExtraboldItalic.woff2') format('woff2'),
+        url('faNumExtraboldItalic.woff') format('woff');
+    font-weight: 800;
+    font-style: italic;
+    font-display: block;
+}
+
+@font-face {
+    font-family: dana;
+    src: url('faNumUltrabold.woff2') format('woff2'),
+        url('faNumUltrabold.woff') format('woff');
+    font-weight: 850;
+    font-style: normal;
+    font-display: block;
+}
+
+@font-face {
+    font-family: dana;
+    src: url('faNumUltraboldItalic.woff2') format('woff2'),
+        url('faNumUltraboldItalic.woff') format('woff');
+    font-weight: 850;
+    font-style: italic;
+    font-display: block;
+}
+
+@font-face {
+    font-family: dana;
     src: url('faNumBlack.woff2') format('woff2'),
         url('faNumBlack.woff') format('woff');
     font-weight: 900;
     font-style: normal;
+    font-display: block;
+}
+
+@font-face {
+    font-family: dana;
+    src: url('faNumBlackItalic.woff2') format('woff2'),
+        url('faNumBlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
     font-display: block;
 }
