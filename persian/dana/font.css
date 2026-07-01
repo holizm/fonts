@@ -1,5 +1,5 @@
 @font-face {
-    font-family: Dana;
+    font-family: dana;
     src: url('faNumThin.woff2') format('woff2'),
         url('faNumThin.woff') format('woff');
     font-weight: 100;
@@ -8,7 +8,7 @@
 }
 
 @font-face {
-    font-family: Dana;
+    font-family: dana;
     src: url('faNumRegular.woff2') format('woff2'),
         url('faNumRegular.woff') format('woff');
     font-weight: 400;
@@ -17,7 +17,7 @@
 }
 
 @font-face {
-    font-family: Dana;
+    font-family: dana;
     src: url('faNumBold.woff2') format('woff2'),
         url('faNumBold.woff') format('woff');
     font-weight: 700;
@@ -26,7 +26,7 @@
 }
 
 @font-face {
-    font-family: Dana;
+    font-family: dana;
     src: url('faNumBlack.woff2') format('woff2'),
         url('faNumBlack.woff') format('woff');
     font-weight: 900;
