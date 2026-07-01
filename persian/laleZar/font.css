@@ -1,7 +1,7 @@
 /* @font-face {
     font-family: LaleZar;
-    src: url('/fonts/persian/dana-fanum-thin.woff2') format('woff2'),
-        url('/fonts/persian/dana-fanum-thin.woff') format('woff');
+    src: url('/fonts/persian/dana-faNum-thin.woff2') format('woff2'),
+        url('/fonts/persian/dana-faNum-thin.woff') format('woff');
     font-weight: 100;
     font-style: normal;
     font-display: block;
@@ -18,8 +18,8 @@
 
 /* @font-face {
     font-family: LaleZar;
-    src: url('/fonts/persian/dana-fanum-bold.woff2') format('woff2'),
-        url('/fonts/persian/dana-fanum-bold.woff') format('woff');
+    src: url('/fonts/persian/dana-faNum-bold.woff2') format('woff2'),
+        url('/fonts/persian/dana-faNum-bold.woff') format('woff');
     font-weight: 700;
     font-style: normal;
     font-display: block;
@@ -27,8 +27,8 @@
 
 @font-face {
     font-family: LaleZar;
-    src: url('/fonts/persian/dana-fanum-black.woff2') format('woff2'),
-        url('/fonts/persian/dana-fanum-black.woff') format('woff');
+    src: url('/fonts/persian/dana-faNum-black.woff2') format('woff2'),
+        url('/fonts/persian/dana-faNum-black.woff') format('woff');
     font-weight: 900;
     font-style: normal;
     font-display: block;
