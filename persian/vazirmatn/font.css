@@ -1,0 +1,71 @@
+@font-face {
+    font-family: vazirmatn;
+    src: url('vazirmatnThin.woff2') format('woff2');
+    font-weight: 100;
+    font-style: normal;
+    font-display: block;
+}
+
+@font-face {
+    font-family: vazirmatn;
+    src: url('vazirmatnExtraLight.woff2') format('woff2');
+    font-weight: 200;
+    font-style: normal;
+    font-display: block;
+}
+
+@font-face {
+    font-family: vazirmatn;
+    src: url('vazirmatnLight.woff2') format('woff2');
+    font-weight: 300;
+    font-style: normal;
+    font-display: block;
+}
+
+@font-face {
+    font-family: vazirmatn;
+    src: url('vazirmatnRegular.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+    font-display: block;
+}
+
+@font-face {
+    font-family: vazirmatn;
+    src: url('vazirmatnMedium.woff2') format('woff2');
+    font-weight: 500;
+    font-style: normal;
+    font-display: block;
+}
+
+@font-face {
+    font-family: vazirmatn;
+    src: url('vazirmatnSemiBold.woff2') format('woff2');
+    font-weight: 600;
+    font-style: normal;
+    font-display: block;
+}
+
+@font-face {
+    font-family: vazirmatn;
+    src: url('vazirmatnBold.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+    font-display: block;
+}
+
+@font-face {
+    font-family: vazirmatn;
+    src: url('vazirmatnExtraBold.woff2') format('woff2');
+    font-weight: 800;
+    font-style: normal;
+    font-display: block;
+}
+
+@font-face {
+    font-family: vazirmatn;
+    src: url('vazirmatnBlack.woff2') format('woff2');
+    font-weight: 900;
+    font-style: normal;
+    font-display: block;
+}
