@@ -9,7 +9,7 @@
 
 @font-face {
     font-family: shabnam;
-    src: url('fonts/shabnam-400.woff') format('woff2'),
+    src: url('fonts/shabnam-400.woff2') format('woff2'),
         url('fonts/shabnam-400.woff') format('woff');
     font-weight: 400;
     font-style: normal;

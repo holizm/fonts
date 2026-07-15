@@ -2,8 +2,8 @@
     font-family: BonyadeKoodak;
     font-style: normal;
     font-weight: 100;
-    src: url('/fonts/persian/BonyadeKoodakFaNum-Thin.woff') format('woff'),
-        url('/fonts/persian/BonyadeKoodakFaNum-Thin.woff2') format('woff2');
+    src: url('/fonts/persian/BonyadeKoodakFaNum-Thin.woff2') format('woff2'),
+        url('/fonts/persian/BonyadeKoodakFaNum-Thin.woff') format('woff');
     font-display: block;
 }
 
@@ -11,8 +11,8 @@
     font-family: BonyadeKoodak;
     font-style: normal;
     font-weight: 200;
-    src: url('/fonts/persian/BonyadeKoodakFaNum-ExtraLight.woff') format('woff'),
-        url('/fonts/persian/BonyadeKoodakFaNum-ExtraLight.woff2') format('woff2');
+    src: url('/fonts/persian/BonyadeKoodakFaNum-ExtraLight.woff2') format('woff2'),
+        url('/fonts/persian/BonyadeKoodakFaNum-ExtraLight.woff') format('woff');
     font-display: block;
 }
 
@@ -20,8 +20,8 @@
     font-family: BonyadeKoodak;
     font-style: normal;
     font-weight: 300;
-    src: url('/fonts/persian/BonyadeKoodakFaNum-Light.woff') format('woff'),
-        url('/fonts/persian/BonyadeKoodakFaNum-Light.woff2') format('woff2');
+    src: url('/fonts/persian/BonyadeKoodakFaNum-Light.woff2') format('woff2'),
+        url('/fonts/persian/BonyadeKoodakFaNum-Light.woff') format('woff');
     font-display: block;
 }
 
@@ -29,8 +29,8 @@
     font-family: BonyadeKoodak;
     font-style: normal;
     font-weight: normal;
-    src: url('/fonts/persian/BonyadeKoodakFaNum-Regular.woff') format('woff'),
-        url('/fonts/persian/BonyadeKoodakFaNum-Regular.woff2') format('woff2');
+    src: url('/fonts/persian/BonyadeKoodakFaNum-Regular.woff2') format('woff2'),
+        url('/fonts/persian/BonyadeKoodakFaNum-Regular.woff') format('woff');
     font-display: block;
 }
 
@@ -38,8 +38,8 @@
     font-family: BonyadeKoodak;
     font-style: normal;
     font-weight: 500;
-    src: url('/fonts/persian/BonyadeKoodakFaNum-Medium.woff') format('woff'),
-        url('/fonts/persian/BonyadeKoodakFaNum-Medium.woff2') format('woff2');
+    src: url('/fonts/persian/BonyadeKoodakFaNum-Medium.woff2') format('woff2'),
+        url('/fonts/persian/BonyadeKoodakFaNum-Medium.woff') format('woff');
     font-display: block;
 }
 
@@ -47,8 +47,8 @@
     font-family: BonyadeKoodak;
     font-style: normal;
     font-weight: bold;
-    src: url('/fonts/persian/BonyadeKoodakFaNum-Bold.woff') format('woff'),
-        url('/fonts/persian/BonyadeKoodakFaNum-Bold.woff2') format('woff2');
+    src: url('/fonts/persian/BonyadeKoodakFaNum-Bold.woff2') format('woff2'),
+        url('/fonts/persian/BonyadeKoodakFaNum-Bold.woff') format('woff');
     font-display: block;
 }
 
@@ -56,8 +56,8 @@
     font-family: BonyadeKoodak;
     font-style: normal;
     font-weight: 800;
-    src: url('/fonts/persian/BonyadeKoodakFaNum-ExtraBold.woff') format('woff'),
-        url('/fonts/persian/BonyadeKoodakFaNum-ExtraBold.woff2') format('woff2');
+    src: url('/fonts/persian/BonyadeKoodakFaNum-ExtraBold.woff2') format('woff2'),
+        url('/fonts/persian/BonyadeKoodakFaNum-ExtraBold.woff') format('woff');
     font-display: block;
 }
 
@@ -65,7 +65,7 @@
     font-family: BonyadeKoodak;
     font-style: normal;
     font-weight: 900;
-    src: url('/fonts/persian/BonyadeKoodakFaNum-Black.woff') format('woff'),
-        url('/fonts/persian/BonyadeKoodakFaNum-Black.woff2') format('woff2');
+    src: url('/fonts/persian/BonyadeKoodakFaNum-Black.woff2') format('woff2'),
+        url('/fonts/persian/BonyadeKoodakFaNum-Black.woff') format('woff');
     font-display: block;
 }

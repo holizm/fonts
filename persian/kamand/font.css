@@ -2,8 +2,8 @@
     font-family: Kamand;
     font-style: normal;
     font-weight: 100;
-    src: url('/fonts/persian/Kamand-Light.woff') format('woff'),
-        url('/fonts/persian/Kamand-Light.woff2') format('woff2');
+    src: url('/fonts/persian/Kamand-Light.woff2') format('woff2'),
+        url('/fonts/persian/Kamand-Light.woff') format('woff');
     font-display: block;
 }
 
@@ -11,8 +11,8 @@
     font-family: Kamand;
     font-style: normal;
     font-weight: 500;
-    src: url('/fonts/persian/Kamand-Medium.woff') format('woff'),
-        url('/fonts/persian/Kamand-Medium.woff2') format('woff2');
+    src: url('/fonts/persian/Kamand-Medium.woff2') format('woff2'),
+        url('/fonts/persian/Kamand-Medium.woff') format('woff');
     font-display: block;
 }
 
@@ -20,8 +20,8 @@
     font-family: Kamand;
     font-style: normal;
     font-weight: 800;
-    src: url('/fonts/persian/Kamand-ExtraBold.woff') format('woff'),
-        url('/fonts/persian/Kamand-ExtraBold.woff2') format('woff2');
+    src: url('/fonts/persian/Kamand-ExtraBold.woff2') format('woff2'),
+        url('/fonts/persian/Kamand-ExtraBold.woff') format('woff');
     font-display: block;
 }
 
@@ -29,8 +29,8 @@
     font-family: Kamand;
     font-style: normal;
     font-weight: 900;
-    src: url('/fonts/persian/Kamand-Black.woff') format('woff'),
-        url('/fonts/persian/Kamand-Black.woff2') format('woff2');
+    src: url('/fonts/persian/Kamand-Black.woff2') format('woff2'),
+        url('/fonts/persian/Kamand-Black.woff') format('woff');
     font-display: block;
 }
 
@@ -38,8 +38,8 @@
     font-family: Kamand;
     font-style: normal;
     font-weight: bold;
-    src: url('/fonts/persian/Kamand-Bold.woff') format('woff'),
-        url('/fonts/persian/Kamand-Bold.woff2') format('woff2');
+    src: url('/fonts/persian/Kamand-Bold.woff2') format('woff2'),
+        url('/fonts/persian/Kamand-Bold.woff') format('woff');
     font-display: block;
 }
 
@@ -47,7 +47,7 @@
     font-family: Kamand;
     font-style: normal;
     font-weight: normal;
-    src: url('/fonts/persian/Kamand-Regular.woff') format('woff'),
-        url('/fonts/persian/Kamand-Regular.woff2') format('woff2');
+    src: url('/fonts/persian/Kamand-Regular.woff2') format('woff2'),
+        url('/fonts/persian/Kamand-Regular.woff') format('woff');
     font-display: block;
 }
