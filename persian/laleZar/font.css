@@ -9,8 +9,8 @@
 
 @font-face {
     font-family: LaleZar;
-    src: url('/fonts/persian/Lalezar-Regular.woff2') format('woff2'),
-        url('/fonts/persian/Lalezar-Regular.woff') format('woff');
+    src: url('regular.woff2') format('woff2'),
+        url('regular.woff') format('woff');
     font-weight: 400;
     font-style: normal;
     font-display: block;

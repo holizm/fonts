@@ -9,8 +9,8 @@
 
 @font-face {
     font-family: IranYekan;
-    src: url('/fonts/persian/iranyekanweblightfaNum.woff2') format('woff2'),
-        url('/fonts/persian/iranyekanweblightfaNum.woff') format('woff');
+    src: url('weblightfaNum.woff2') format('woff2'),
+        url('weblightfaNum.woff') format('woff');
     font-weight: 200;
     font-style: normal;
     font-display: block;
@@ -18,8 +18,8 @@
 
 @font-face {
     font-family: IranYekan;
-    src: url('/fonts/persian/iranyekanwebregularfaNum.woff2') format('woff2'),
-        url('/fonts/persian/iranyekanwebregularfaNum.woff') format('woff');
+    src: url('webregularfaNum.woff2') format('woff2'),
+        url('webregularfaNum.woff') format('woff');
     font-weight: 400;
     font-style: normal;
     font-display: block;
@@ -27,8 +27,8 @@
 
 @font-face {
     font-family: IranYekan;
-    src: url('/fonts/persian/iranyekanwebmediumfaNum.woff2') format('woff2'),
-        url('/fonts/persian/iranyekanwebmediumfaNum.woff') format('woff');
+    src: url('webmediumfaNum.woff2') format('woff2'),
+        url('webmediumfaNum.woff') format('woff');
     font-weight: 600;
     font-style: normal;
     font-display: block;
@@ -36,8 +36,8 @@
 
 @font-face {
     font-family: IranYekan;
-    src: url('/fonts/persian/iranyekanwebboldfaNum.woff2') format('woff2'),
-        url('/fonts/persian/iranyekanwebboldfaNum.woff') format('woff');
+    src: url('webboldfaNum.woff2') format('woff2'),
+        url('webboldfaNum.woff') format('woff');
     font-weight: 700;
     font-style: normal;
     font-display: block;
@@ -45,8 +45,8 @@
 
 @font-face {
     font-family: IranYekan;
-    src: url('/fonts/persian/iranyekanwebblackfaNum.woff2') format('woff2'),
-        url('/fonts/persian/iranyekanwebblackfaNum.woff') format('woff');
+    src: url('webblackfaNum.woff2') format('woff2'),
+        url('webblackfaNum.woff') format('woff');
     font-weight: 900;
     font-style: normal;
     font-display: block;
