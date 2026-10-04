@@ -1,0 +1,23 @@
+@font-face {
+    font-display: swap;
+    font-family: cabinet;
+    font-style: normal;
+    font-weight: 500;
+    src: url('./medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: cabinet;
+    font-style: normal;
+    font-weight: 700;
+    src: url('./bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: cabinet;
+    font-style: normal;
+    font-weight: 800;
+    src: url('./extrabold.woff2') format('woff2');
+}
