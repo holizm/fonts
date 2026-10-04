@@ -1,0 +1,7 @@
+@font-face {
+    font-display: swap;
+    font-family: Volkhov;
+    font-style: italic;
+    font-weight: 400;
+    src: url('./italic.ttf') format('truetype');
+}
