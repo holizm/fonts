@@ -2,6 +2,14 @@
     font-display: swap;
     font-family: 'Poppins';
     font-style: normal;
+    font-weight: 200;
+    src: url('./extraLight.woff2') format('woff2');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'Poppins';
+    font-style: normal;
     font-weight: 400;
     src: url('./regular.ttf') format('truetype');
 }
