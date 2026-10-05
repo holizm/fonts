@@ -1,0 +1,7 @@
+@font-face {
+    font-display: swap;
+    font-family: 'Assistant';
+    font-style: normal;
+    font-weight: 200 800;
+    src: url('./variable.ttf') format('truetype');
+}
