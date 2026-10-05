@@ -5,3 +5,11 @@
     font-weight: 700;
     src: url('./bold.ttf') format('truetype');
 }
+
+@font-face {
+    font-display: swap;
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./regular.ttf') format('truetype');
+}
