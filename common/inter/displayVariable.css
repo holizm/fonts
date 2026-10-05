@@ -1,0 +1,7 @@
+@font-face {
+    font-display: swap;
+    font-family: 'Inter Display';
+    font-style: normal;
+    font-weight: 100 900;
+    src: url('./displayVariable.woff2') format('woff2');
+}
