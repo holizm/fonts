@@ -1,0 +1,10 @@
+@font-face {
+    ascent-override: 87.5%;
+    descent-override: 12.5%;
+    font-display: auto;
+    font-family: 'MuliIconMetrics';
+    font-style: normal;
+    font-weight: 400;
+    line-gap-override: 0%;
+    src: url(./variable.woff2) format('woff2');
+}
