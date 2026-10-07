@@ -1,0 +1,39 @@
+@font-face {
+    font-display: swap;
+    font-family: 'Muli';
+    font-style: normal;
+    font-weight: 300;
+    src: url('./light.ttf') format('truetype');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'Muli';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'Muli';
+    font-style: normal;
+    font-weight: 500;
+    src: url('./medium.ttf') format('truetype');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'Muli';
+    font-style: normal;
+    font-weight: 700;
+    src: url('./bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'Muli';
+    font-style: normal;
+    font-weight: 900;
+    src: url('./black.ttf') format('truetype');
+}
