@@ -4,7 +4,7 @@
     font-weight: 100;
     src: url('faNumThin.woff2') format('woff2'),
         url('faNumThin.woff') format('woff');
-    font-display: block;
+    font-display: swap;
 }
 
 @font-face {
@@ -13,7 +13,7 @@
     font-weight: 200;
     src: url('faNumUltraLight.woff2') format('woff2'),
         url('faNumUltraLight.woff') format('woff');
-    font-display: block;
+    font-display: swap;
 }
 
 @font-face {
@@ -22,7 +22,7 @@
     font-weight: 300;
     src: url('faNumLight.woff2') format('woff2'),
         url('faNumLight.woff') format('woff');
-    font-display: block;
+    font-display: swap;
 }
 
 @font-face {
@@ -31,7 +31,7 @@
     font-weight: 500;
     src: url('faNumMedium.woff2') format('woff2'),
         url('faNumMedium.woff') format('woff');
-    font-display: block;
+    font-display: swap;
 }
 
 @font-face {
@@ -40,7 +40,7 @@
     font-weight: 600;
     src: url('faNumMedium.woff2') format('woff2'),
         url('faNumMedium.woff') format('woff');
-    font-display: block;
+    font-display: swap;
 }
 
 @font-face {
@@ -49,7 +49,7 @@
     font-weight: 800;
     src: url('faNumMedium.woff2') format('woff2'),
         url('faNumMedium.woff') format('woff');
-    font-display: block;
+    font-display: swap;
 }
 
 @font-face {
@@ -58,7 +58,7 @@
     font-weight: 900;
     src: url('faNumBlack.woff2') format('woff2'),
         url('faNumBlack.woff') format('woff');
-    font-display: block;
+    font-display: swap;
 }
 
 @font-face {
@@ -67,7 +67,7 @@
     font-weight: bold;
     src: url('faNumBold.woff2') format('woff2'),
         url('faNumBold.woff') format('woff');
-    font-display: block;
+    font-display: swap;
 }
 
 @font-face {
@@ -76,7 +76,7 @@
     font-weight: normal;
     src: url('faNumRegular.woff2') format('woff2'),
         url('faNumRegular.woff') format('woff');
-    font-display: block;
+    font-display: swap;
 }
 
 .localized-number {
