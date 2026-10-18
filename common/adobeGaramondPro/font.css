@@ -1,0 +1,7 @@
+@font-face {
+    font-display: swap;
+    font-family: 'Adobe Garamond Pro Regular';
+    font-style: normal;
+    font-weight: 400 800;
+    src: url('./regular.woff') format('woff');
+}
