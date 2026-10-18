@@ -1,0 +1,7 @@
+@font-face {
+    font-display: swap;
+    font-family: 'Syne';
+    font-style: normal;
+    font-weight: 400 800;
+    src: url('./variable.woff2') format('woff2');
+}
