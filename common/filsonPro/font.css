@@ -1,0 +1,26 @@
+@font-face {
+    font-display: swap;
+    font-family: 'filson-pro';
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+    src: url('./bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'filson-pro';
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+    src: url('./light.woff2') format('woff2');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'filson-pro';
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+    src: url('./regular.woff2') format('woff2');
+}
