@@ -1,0 +1,7 @@
+@font-face {
+    font-display: swap;
+    font-family: 'Raleway Legacy';
+    font-style: normal;
+    font-weight: 700;
+    src: url('./boldLegacy.woff2') format('woff2');
+}
