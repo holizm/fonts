@@ -1,0 +1,80 @@
+@font-face {
+    font-display: swap;
+    font-family: 'Noto Sans SC';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./subset010.woff2') format('woff2');
+    unicode-range: U+95c4-95ca, U+95cc-95cd, U+95d4-95d6, U+95d8, U+95e1-95e2, U+95e9, U+95f0-95f1, U+95f3, U+95f6, U+95fc, U+95fe-95ff, U+9602-9604, U+9606-960d, U+960f, U+9611-9613, U+9615-9617, U+9619-961b, U+961d, U+9621, U+9628, U+962f, U+963c-963e, U+9641-9642, U+9649, U+9654, U+965b-965f, U+9661, U+9663, U+9665, U+9667-9668, U+966c, U+9670, U+9672-9674, U+9678, U+967a, U+967d, U+9682, U+9685, U+9688, U+968a, U+968d-968e, U+9695, U+9697-9698, U+969e, U+96a0, U+96a3-96a4, U+96a8, U+96aa, U+96b0-96b1, U+96b3-96b4, U+96b7-96b9, U+96bb-96bd, U+96c9, U+96cb, U+96ce, U+96d1-96d2, U+96d6, U+96d9, U+96db-96dc, U+96de, U+96e0, U+96e3, U+96e9, U+96eb, U+96f0-96f2, U+96f9, U+96ff, U+9701-9702, U+9705, U+9708, U+970a, U+970e-970f, U+9711, U+9719, U+9727, U+972a, U+972d, U+9730, U+973d, U+9742, U+9744, U+9748-9749, U+9750-9751, U+975a;
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'Noto Sans SC';
+    font-style: normal;
+    font-weight: 500;
+    src: url('./subset010.woff2') format('woff2');
+    unicode-range: U+95c4-95ca, U+95cc-95cd, U+95d4-95d6, U+95d8, U+95e1-95e2, U+95e9, U+95f0-95f1, U+95f3, U+95f6, U+95fc, U+95fe-95ff, U+9602-9604, U+9606-960d, U+960f, U+9611-9613, U+9615-9617, U+9619-961b, U+961d, U+9621, U+9628, U+962f, U+963c-963e, U+9641-9642, U+9649, U+9654, U+965b-965f, U+9661, U+9663, U+9665, U+9667-9668, U+966c, U+9670, U+9672-9674, U+9678, U+967a, U+967d, U+9682, U+9685, U+9688, U+968a, U+968d-968e, U+9695, U+9697-9698, U+969e, U+96a0, U+96a3-96a4, U+96a8, U+96aa, U+96b0-96b1, U+96b3-96b4, U+96b7-96b9, U+96bb-96bd, U+96c9, U+96cb, U+96ce, U+96d1-96d2, U+96d6, U+96d9, U+96db-96dc, U+96de, U+96e0, U+96e3, U+96e9, U+96eb, U+96f0-96f2, U+96f9, U+96ff, U+9701-9702, U+9705, U+9708, U+970a, U+970e-970f, U+9711, U+9719, U+9727, U+972a, U+972d, U+9730, U+973d, U+9742, U+9744, U+9748-9749, U+9750-9751, U+975a;
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'Noto Sans SC';
+    font-style: normal;
+    font-weight: 700;
+    src: url('./subset010.woff2') format('woff2');
+    unicode-range: U+95c4-95ca, U+95cc-95cd, U+95d4-95d6, U+95d8, U+95e1-95e2, U+95e9, U+95f0-95f1, U+95f3, U+95f6, U+95fc, U+95fe-95ff, U+9602-9604, U+9606-960d, U+960f, U+9611-9613, U+9615-9617, U+9619-961b, U+961d, U+9621, U+9628, U+962f, U+963c-963e, U+9641-9642, U+9649, U+9654, U+965b-965f, U+9661, U+9663, U+9665, U+9667-9668, U+966c, U+9670, U+9672-9674, U+9678, U+967a, U+967d, U+9682, U+9685, U+9688, U+968a, U+968d-968e, U+9695, U+9697-9698, U+969e, U+96a0, U+96a3-96a4, U+96a8, U+96aa, U+96b0-96b1, U+96b3-96b4, U+96b7-96b9, U+96bb-96bd, U+96c9, U+96cb, U+96ce, U+96d1-96d2, U+96d6, U+96d9, U+96db-96dc, U+96de, U+96e0, U+96e3, U+96e9, U+96eb, U+96f0-96f2, U+96f9, U+96ff, U+9701-9702, U+9705, U+9708, U+970a, U+970e-970f, U+9711, U+9719, U+9727, U+972a, U+972d, U+9730, U+973d, U+9742, U+9744, U+9748-9749, U+9750-9751, U+975a;
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'Noto Sans SC';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./subset011.woff2') format('woff2');
+    unicode-range: U+94f5, U+94f7, U+94f9, U+94fb-94fd, U+94ff, U+9503-9504, U+9506-9507, U+9509-950a, U+950d-950f, U+9511-9518, U+951a-9520, U+9522, U+9528-952d, U+9530-953a, U+953c-953f, U+9543-9546, U+9548-9550, U+9552-9555, U+9557-955b, U+955d-9568, U+956a-956d, U+9570-9574, U+9583, U+9586, U+9589, U+958e-958f, U+9591-9592, U+9594, U+9598-9599, U+959e-95a0, U+95a2-95a6, U+95a8-95b2, U+95b4, U+95b8-95c3;
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'Noto Sans SC';
+    font-style: normal;
+    font-weight: 500;
+    src: url('./subset011.woff2') format('woff2');
+    unicode-range: U+94f5, U+94f7, U+94f9, U+94fb-94fd, U+94ff, U+9503-9504, U+9506-9507, U+9509-950a, U+950d-950f, U+9511-9518, U+951a-9520, U+9522, U+9528-952d, U+9530-953a, U+953c-953f, U+9543-9546, U+9548-9550, U+9552-9555, U+9557-955b, U+955d-9568, U+956a-956d, U+9570-9574, U+9583, U+9586, U+9589, U+958e-958f, U+9591-9592, U+9594, U+9598-9599, U+959e-95a0, U+95a2-95a6, U+95a8-95b2, U+95b4, U+95b8-95c3;
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'Noto Sans SC';
+    font-style: normal;
+    font-weight: 700;
+    src: url('./subset011.woff2') format('woff2');
+    unicode-range: U+94f5, U+94f7, U+94f9, U+94fb-94fd, U+94ff, U+9503-9504, U+9506-9507, U+9509-950a, U+950d-950f, U+9511-9518, U+951a-9520, U+9522, U+9528-952d, U+9530-953a, U+953c-953f, U+9543-9546, U+9548-9550, U+9552-9555, U+9557-955b, U+955d-9568, U+956a-956d, U+9570-9574, U+9583, U+9586, U+9589, U+958e-958f, U+9591-9592, U+9594, U+9598-9599, U+959e-95a0, U+95a2-95a6, U+95a8-95b2, U+95b4, U+95b8-95c3;
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'Noto Sans SC';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./subset012.woff2') format('woff2');
+    unicode-range: U+941c-942b, U+942d-942e, U+9432-9433, U+9435, U+9438, U+943a, U+943e, U+9444, U+944a, U+9451-9452, U+945a, U+9462-9463, U+9465, U+9470-9487, U+948a-9492, U+9494-9498, U+949a, U+949c-949d, U+94a1, U+94a3-94a4, U+94a8, U+94aa-94ad, U+94af, U+94b2, U+94b4-94ba, U+94bc-94c0, U+94c4, U+94c6-94db, U+94de-94ec, U+94ee-94f1, U+94f3;
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'Noto Sans SC';
+    font-style: normal;
+    font-weight: 500;
+    src: url('./subset012.woff2') format('woff2');
+    unicode-range: U+941c-942b, U+942d-942e, U+9432-9433, U+9435, U+9438, U+943a, U+943e, U+9444, U+944a, U+9451-9452, U+945a, U+9462-9463, U+9465, U+9470-9487, U+948a-9492, U+9494-9498, U+949a, U+949c-949d, U+94a1, U+94a3-94a4, U+94a8, U+94aa-94ad, U+94af, U+94b2, U+94b4-94ba, U+94bc-94c0, U+94c4, U+94c6-94db, U+94de-94ec, U+94ee-94f1, U+94f3;
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'Noto Sans SC';
+    font-style: normal;
+    font-weight: 700;
+    src: url('./subset012.woff2') format('woff2');
+    unicode-range: U+941c-942b, U+942d-942e, U+9432-9433, U+9435, U+9438, U+943a, U+943e, U+9444, U+944a, U+9451-9452, U+945a, U+9462-9463, U+9465, U+9470-9487, U+948a-9492, U+9494-9498, U+949a, U+949c-949d, U+94a1, U+94a3-94a4, U+94a8, U+94aa-94ad, U+94af, U+94b2, U+94b4-94ba, U+94bc-94c0, U+94c4, U+94c6-94db, U+94de-94ec, U+94ee-94f1, U+94f3;
+}
