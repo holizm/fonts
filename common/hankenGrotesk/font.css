@@ -1,0 +1,7 @@
+@font-face {
+    font-display: swap;
+    font-family: 'Hanken Grotesk';
+    font-style: normal;
+    font-weight: 400 700;
+    src: url('./variable.woff2') format('woff2');
+}
