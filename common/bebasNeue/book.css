@@ -1,0 +1,14 @@
+@font-face {
+    font-display: swap;
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./book.woff2') format('woff2');
+}
+@font-face {
+    font-display: swap;
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: 700;
+    src: url('./bold.woff2') format('woff2');
+}
