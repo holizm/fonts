@@ -29,3 +29,19 @@
     font-weight: 700;
     src: url('./normal700.ttf') format('truetype');
 }
+
+@font-face {
+    font-display: swap;
+    font-family: 'Inter Tight';
+    font-style: italic;
+    font-weight: 900;
+    src: url('./italic900.ttf') format('truetype');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'Inter Tight';
+    font-style: normal;
+    font-weight: 900;
+    src: url('./normal900.ttf') format('truetype');
+}
