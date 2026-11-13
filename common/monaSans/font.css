@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Mona Sans';
+    src: url('./variable.woff2') format('woff2');
+    font-weight: 200 900;
+    font-style: normal;
+    font-display: swap;
+    font-synthesis: none;
+    font-feature-settings: 'liga' 0;
+}
+
+@font-face {
+    font-family: 'MonaSansFallback';
+    src: local('Arial');
+    size-adjust: 104.5%;
+    ascent-override: 71%;
+}
