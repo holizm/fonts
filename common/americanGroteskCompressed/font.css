@@ -1,0 +1,7 @@
+@font-face {
+    font-display: swap;
+    font-family: 'American Grotesk Compressed';
+    font-style: normal;
+    font-weight: 900;
+    src: url('./black.woff2') format('woff2');
+}
