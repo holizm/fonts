@@ -1,0 +1,7 @@
+@font-face {
+    font-display: fallback;
+    font-family: 'Merriweather Web';
+    font-style: normal;
+    font-weight: 700;
+    src: url('./legacyBold.woff2') format('woff2');
+}

@@ -1,0 +1,23 @@
+@font-face {
+    font-display: fallback;
+    font-family: 'Source Sans Pro Web';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./legacyRegular.woff2') format('woff2');
+}
+
+@font-face {
+    font-display: fallback;
+    font-family: 'Source Sans Pro Web';
+    font-style: normal;
+    font-weight: 600;
+    src: url('./legacySemibold.woff2') format('woff2');
+}
+
+@font-face {
+    font-display: fallback;
+    font-family: 'Source Sans Pro Web';
+    font-style: normal;
+    font-weight: 700;
+    src: url('./legacyBold.woff2') format('woff2');
+}
