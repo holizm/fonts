@@ -1,0 +1,15 @@
+@font-face {
+    font-display: swap;
+    font-family: 'Helvetica Now Text';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'Helvetica Now Text Medium';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./medium.woff2') format('woff2');
+}
