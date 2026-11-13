@@ -1,0 +1,18 @@
+@font-face {
+    font-display: swap;
+    font-family: 'Areal';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./regular.woff2') format('woff2');
+}
+
+@font-face {
+    ascent-override: 87.13%;
+    descent-override: 20.84%;
+    font-family: 'Areal Fallback';
+    font-style: normal;
+    font-weight: 400;
+    line-gap-override: 0%;
+    size-adjust: 100.76%;
+    src: local('Arial');
+}
