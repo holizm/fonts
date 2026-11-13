@@ -1,0 +1,17 @@
+@font-face {
+    font-display: swap;
+    font-family: 'HK Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./legacyRegular.woff2') format('woff2');
+    unicode-range: U+D-FB04;
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'HK Grotesk';
+    font-style: normal;
+    font-weight: 700;
+    src: url('./legacyBold.woff2') format('woff2');
+    unicode-range: U+D-FB04;
+}
