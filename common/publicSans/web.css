@@ -1,0 +1,15 @@
+@font-face {
+    font-display: fallback;
+    font-family: 'Public Sans Web';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./webRegular.woff2') format('woff2');
+}
+
+@font-face {
+    font-display: fallback;
+    font-family: 'Public Sans Web';
+    font-style: normal;
+    font-weight: 700;
+    src: url('./webBold.woff2') format('woff2');
+}
