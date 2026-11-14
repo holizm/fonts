@@ -1,0 +1,15 @@
+@font-face {
+    font-display: swap;
+    font-family: 'graphik';
+    font-style: normal;
+    font-weight: 700;
+    src: url('./bold.otf') format('opentype');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'graphik-light';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./regular.otf') format('opentype');
+}
