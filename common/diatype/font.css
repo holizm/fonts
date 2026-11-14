@@ -1,0 +1,31 @@
+@font-face {
+    font-display: swap;
+    font-family: Diatype;
+    font-style: normal;
+    font-weight: 300;
+    src: url('./light.otf') format('opentype');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: Diatype;
+    font-style: normal;
+    font-weight: 400;
+    src: url('./regular.otf') format('opentype');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'Diatype Regular';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./regular.otf') format('opentype');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'Diatype Light';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./light.otf') format('opentype');
+}
