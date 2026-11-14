@@ -1,0 +1,7 @@
+@font-face {
+    font-display: auto;
+    font-family: 'Seriguela';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./bold.otf') format('opentype');
+}
