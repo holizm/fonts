@@ -1,0 +1,8 @@
+@font-face {
+    font-display: swap;
+    font-family: 'Lyon Display Web';
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+    src: url('./light.woff2') format('woff2');
+}

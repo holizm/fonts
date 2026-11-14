@@ -1,0 +1,35 @@
+@font-face {
+    font-display: swap;
+    font-family: 'WhitneySSm';
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+    src: url('./light.woff2') format('woff2');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'WhitneySSm';
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 300;
+    src: url('./lightItalic.woff2') format('woff2');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'WhitneySSm';
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+    src: url('./italic.woff2') format('woff2');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'WhitneySSm';
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+    src: url('./regular.woff2') format('woff2');
+}
