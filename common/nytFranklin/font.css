@@ -1,0 +1,23 @@
+@font-face {
+    font-display: swap;
+    font-family: 'nyt-franklin';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./regular.woff') format('woff');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'nyt-franklin';
+    font-style: normal;
+    font-weight: 600;
+    src: url('./semiBold.woff') format('woff');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'nyt-franklin';
+    font-style: normal;
+    font-weight: 700;
+    src: url('./bold.woff') format('woff');
+}
