@@ -1,0 +1,15 @@
+@font-face {
+    font-display: swap;
+    font-family: 'ChromaSans';
+    font-style: normal;
+    font-weight: 700;
+    src: url('./bold.otf') format('opentype');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'ChromaSans';
+    font-style: normal;
+    font-weight: 900;
+    src: url('./black.otf') format('opentype');
+}
