@@ -1,0 +1,15 @@
+@font-face {
+    font-display: fallback;
+    font-family: 'Kinfolk-Serif-Text';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-display: fallback;
+    font-family: 'Kinfolk-Serif-Text-Italic';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./italic.woff2') format('woff2');
+}
