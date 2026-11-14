@@ -1,0 +1,7 @@
+@font-face {
+    font-display: swap;
+    font-family: 'Inter Variable';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./interfaceVariable.woff2') format('woff2');
+}
