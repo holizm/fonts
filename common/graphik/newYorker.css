@@ -1,0 +1,23 @@
+@font-face {
+    font-display: swap;
+    font-family: 'Graphik';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./newYorkerRegular.woff2') format('woff2');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'Graphik';
+    font-style: normal;
+    font-weight: 500;
+    src: url('./newYorkerMedium.woff2') format('woff2');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'Graphik';
+    font-style: italic;
+    font-weight: 500;
+    src: url('./newYorkerMediumItalic.woff2') format('woff2');
+}
