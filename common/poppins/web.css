@@ -1,0 +1,31 @@
+@font-face {
+    font-display: swap;
+    font-family: 'Poppins Web';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./webRegular.ttf') format('truetype');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'Poppins Web';
+    font-style: normal;
+    font-weight: 600;
+    src: url('./webSemiBold.ttf') format('truetype');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'Poppins Web';
+    font-style: normal;
+    font-weight: 700;
+    src: url('./webBold.ttf') format('truetype');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'Poppins Web';
+    font-style: normal;
+    font-weight: 900;
+    src: url('./webBlack.ttf') format('truetype');
+}
