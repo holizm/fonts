@@ -1,0 +1,15 @@
+@font-face {
+    font-display: swap;
+    font-family: 'GeoBrandBold';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./nationalGeographicBold.woff2') format('woff2');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'GeoBrandRegular';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./nationalGeographicRegular.woff2') format('woff2');
+}
