@@ -21,3 +21,21 @@
     font-display: swap;
     src: url('./regular.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'Horizon Custom';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url('../archivoBlack/regular.ttf') format('truetype');
+    unicode-range: U+00A3;
+}
+
+@font-face {
+    font-family: 'Horizon Custom';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url('../archivoBlack/regular.ttf') format('truetype');
+    unicode-range: U+00A3;
+}
