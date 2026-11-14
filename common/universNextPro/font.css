@@ -1,0 +1,23 @@
+@font-face {
+    font-display: swap;
+    font-family: 'Univers Next Pro';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./light.woff2') format('woff2');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'Univers Next Pro';
+    font-style: normal;
+    font-weight: 500;
+    src: url('./regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'Univers Next Pro';
+    font-style: normal;
+    font-weight: 600;
+    src: url('./bold.woff2') format('woff2');
+}
