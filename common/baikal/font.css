@@ -1,0 +1,23 @@
+@font-face {
+    font-display: swap;
+    font-family: Baikal;
+    font-style: normal;
+    font-weight: 200;
+    src: url('./extraLight.otf') format('opentype');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: Baikal;
+    font-style: normal;
+    font-weight: 300;
+    src: url('./light.otf') format('opentype');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: Baikal;
+    font-style: normal;
+    font-weight: 400;
+    src: url('./book.otf') format('opentype');
+}
