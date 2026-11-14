@@ -1,0 +1,53 @@
+@font-face {
+    font-display: swap;
+    font-family: 'AG Next';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./regular.woff2') format('woff2');
+    unicode-range: U+20-7E,U+A0,U+A9,U+AB,U+AD-AE,U+B0,U+BB,U+C0-CD,U+CF-D6,U+D8-F6,U+F8-110,U+112-11C,U+11E,U+120,U+122,U+129,U+12B,U+12D,U+12F,U+131,U+134-156,U+158-162,U+164-166,U+168-17F,U+218-21A,U+1E82-1E83,U+2010-2011,U+2013-2014,U+2018-201A,U+201C-201E,U+2026,U+2039-203A,U+20AC,U+2122;
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'AG Next';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./regularExtended.woff2') format('woff2');
+    unicode-range: U+A1-A8,U+AA,U+AC,U+AF,U+B1-BA,U+BC-BF,U+CE,U+D7,U+F7,U+111,U+11D,U+11F,U+121,U+123-128,U+12A,U+12C,U+12E,U+130,U+132-133,U+157,U+163,U+167,U+21B,U+394,U+3A9,U+3BC,U+3C0,U+2022,U+2070,U+2082,U+2153-2154,U+2212;
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'AG Next';
+    font-style: normal;
+    font-weight: 500;
+    src: url('./medium.woff2') format('woff2');
+    unicode-range: U+20-7E,U+A0,U+A9,U+AB,U+AD-AE,U+B0,U+BB,U+C0-CD,U+CF-D6,U+D8-F6,U+F8-110,U+112-11C,U+11E,U+120,U+122,U+129,U+12B,U+12D,U+12F,U+131,U+134-156,U+158-162,U+164-166,U+168-17F,U+218-21A,U+1E82-1E83,U+2010-2011,U+2013-2014,U+2018-201A,U+201C-201E,U+2026,U+2039-203A,U+20AC,U+2122;
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'AG Next';
+    font-style: normal;
+    font-weight: 500;
+    src: url('./mediumExtended.woff2') format('woff2');
+    unicode-range: U+A1-A8,U+AA,U+AC,U+AF,U+B1-BA,U+BC-BF,U+CE,U+D7,U+F7,U+111,U+11D,U+11F,U+121,U+123-128,U+12A,U+12C,U+12E,U+130,U+132-133,U+157,U+163,U+167,U+21B,U+394,U+3A9,U+3BC,U+3C0,U+2022,U+2070,U+2082,U+2153-2154,U+2212;
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'AG Next';
+    font-style: normal;
+    font-weight: 700;
+    src: url('./bold.woff2') format('woff2');
+    unicode-range: U+20-7E,U+A0,U+A9,U+AB,U+AD-AE,U+B0,U+BB,U+C0-CD,U+CF-D6,U+D8-F6,U+F8-110,U+112-11C,U+11E,U+120,U+122,U+129,U+12B,U+12D,U+12F,U+131,U+134-156,U+158-162,U+164-166,U+168-17F,U+218-21A,U+1E82-1E83,U+2010-2011,U+2013-2014,U+2018-201A,U+201C-201E,U+2026,U+2039-203A,U+20AC,U+2122;
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'AG Next';
+    font-style: normal;
+    font-weight: 700;
+    src: url('./boldExtended.woff2') format('woff2');
+    unicode-range: U+A1-A8,U+AA,U+AC,U+AF,U+B1-BA,U+BC-BF,U+CE,U+D7,U+F7,U+111,U+11D,U+11F,U+121,U+123-128,U+12A,U+12C,U+12E,U+130,U+132-133,U+157,U+163,U+167,U+21B,U+394,U+3A9,U+3BC,U+3C0,U+2022,U+2070,U+2082,U+2153-2154,U+2212;
+}
