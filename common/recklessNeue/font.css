@@ -1,0 +1,23 @@
+@font-face {
+    font-display: fallback;
+    font-family: 'Reckless-Neue';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-display: fallback;
+    font-family: 'Reckless-Neue';
+    font-style: normal;
+    font-weight: 500;
+    src: url('./medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-display: fallback;
+    font-family: 'Reckless-Neue';
+    font-style: italic;
+    font-weight: 500;
+    src: url('./mediumItalic.woff2') format('woff2');
+}
