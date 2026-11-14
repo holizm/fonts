@@ -1,0 +1,15 @@
+@font-face {
+    font-display: swap;
+    font-family: 'Taviraj';
+    font-style: normal;
+    font-weight: 200;
+    src: url('./extraLight.ttf') format('truetype');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'Taviraj';
+    font-style: normal;
+    font-weight: 300;
+    src: url('./light.ttf') format('truetype');
+}
