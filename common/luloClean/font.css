@@ -1,0 +1,16 @@
+@font-face {
+    font-display: swap;
+    font-family: 'Lulo Clean';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./boldExtended.woff2') format('woff2');
+    unicode-range: U+0100-0107, U+010A-0113, U+0116-011B, U+011E-0123, U+0126-0130, U+0132-0137, U+0139-0148, U+014A-0151, U+0154-015F, U+0162-0175, U+0177, U+0179-017C, U+01FC-01FF, U+0218-0219, U+02C7, U+02D8-02DB, U+02DD, U+1E80-1E85, U+1E9E, U+1EF2-1EF3, U+2044, U+2070, U+2074-2079, U+2212, U+E001, U+E909, U+E910-E912, U+E999, U+F6C3, U+F6E0, U+F6E4, U+F8FF;
+}
+@font-face {
+    font-display: swap;
+    font-family: 'Lulo Clean';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./boldLatin.woff2') format('woff2');
+    unicode-range: U+0020-007E, U+00A0-00A3, U+00A5-00AB, U+00AE-00B4, U+00B6-00FF, U+0131, U+0152-0153, U+0160-0161, U+0178, U+017D-017E, U+02C6, U+02DC, U+2013-2014, U+2018-201A, U+201C-201E, U+2020-2022, U+2026, U+2030, U+2039-203A, U+20AC, U+2122;
+}
