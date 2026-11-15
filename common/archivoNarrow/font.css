@@ -1,0 +1,15 @@
+@font-face {
+    font-display: swap;
+    font-family: 'Archivo Narrow';
+    font-style: normal;
+    font-weight: 100 900;
+    src: url('./variable.ttf') format('truetype');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'Archivo Narrow';
+    font-style: italic;
+    font-weight: 100 900;
+    src: url('./italic.ttf') format('truetype');
+}
