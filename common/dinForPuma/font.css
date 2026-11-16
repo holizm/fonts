@@ -1,0 +1,7 @@
+@font-face {
+    font-display: swap;
+    font-family: 'FFDINforPUMA';
+    font-style: normal;
+    font-weight: 700;
+    src: url('./bold.woff') format('woff');
+}
