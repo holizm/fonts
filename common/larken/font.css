@@ -1,0 +1,7 @@
+@font-face {
+    font-display: swap;
+    font-family: 'Larken';
+    font-style: normal;
+    font-weight: 700;
+    src: url('./extraBold.woff2') format('woff2');
+}
