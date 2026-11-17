@@ -9,7 +9,10 @@
 @font-face {
     ascent-override: 94.56%;
     descent-override: 27.76%;
+    font-display: swap;
     font-family: 'GeistSans Fallback';
+    font-style: normal;
+    font-weight: 400;
     line-gap-override: 0%;
     size-adjust: 106.28%;
     src: local('Arial');
