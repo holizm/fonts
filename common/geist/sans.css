@@ -1,0 +1,16 @@
+@font-face {
+    font-display: swap;
+    font-family: 'GeistSans';
+    font-style: normal;
+    font-weight: 100 900;
+    src: url('./sansVariable.woff2') format('woff2');
+}
+
+@font-face {
+    ascent-override: 94.56%;
+    descent-override: 27.76%;
+    font-family: 'GeistSans Fallback';
+    line-gap-override: 0%;
+    size-adjust: 106.28%;
+    src: local('Arial');
+}
