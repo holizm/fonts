@@ -1,0 +1,7 @@
+@font-face {
+    font-display: swap;
+    font-family: 'Tiempos';
+    font-style: normal;
+    font-weight: 600;
+    src: url('./semibold.woff2') format('woff2');
+}
