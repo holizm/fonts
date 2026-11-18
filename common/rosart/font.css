@@ -1,0 +1,8 @@
+@font-face {
+    font-display: auto;
+    font-family: 'Rosart';
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+    src: url('./regular.otf') format('opentype');
+}

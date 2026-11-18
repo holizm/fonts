@@ -1,0 +1,53 @@
+@font-face {
+    font-display: swap;
+    font-family: 'Alliance No.1';
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+    src: url('./regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'Alliance No.1';
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+    src: url('./regularItalic.woff2') format('woff2');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'Alliance No.1';
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+    src: url('./bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'Alliance No.1';
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+    src: url('./boldItalic.woff2') format('woff2');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'Alliance No.1';
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+    src: url('./medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'Alliance No.1';
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 600;
+    src: url('./semibold.woff2') format('woff2');
+}

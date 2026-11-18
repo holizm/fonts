@@ -1,0 +1,8 @@
+@font-face {
+    font-display: auto;
+    font-family: 'Apercu Mono Pro';
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+    src: url('./medium.otf') format('opentype');
+}
