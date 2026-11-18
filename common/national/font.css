@@ -1,0 +1,89 @@
+@font-face {
+    font-display: swap;
+    font-family: 'National';
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 100;
+    src: url('./thin.woff2') format('woff2');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'National';
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 200;
+    src: url('./light.woff2') format('woff2');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'National';
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 200;
+    src: url('./lightItalic.woff2') format('woff2');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'National';
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+    src: url('./book.woff2') format('woff2');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'National';
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 300;
+    src: url('./bookItalic.woff2') format('woff2');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'National';
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+    src: url('./regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'National';
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+    src: url('./regularItalic.woff2') format('woff2');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'National';
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+    src: url('./medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'National';
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 600;
+    src: url('./semibold.woff2') format('woff2');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'National';
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+    src: url('./bold.woff2') format('woff2');
+}
